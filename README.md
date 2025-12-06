@@ -1,4 +1,4 @@
-👋 About Me
+
 Hi, I'm Sakhawat Hussain, a passionate Machine Learning Engineer currently pursuing a Bachelor's in Data Science at The Islamia University of Bahawalpur, Pakistan. I love building intelligent systems that solve real-world problems using data-driven approaches.
 
 🔍 What I Do:
