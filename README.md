@@ -1,38 +1,33 @@
+## About Me
+Hi, I’m Sakhawat Hussain, a passionate Machine Learning Engineer and a current Bachelor’s student in Data Science at The Islamia University of Bahawalpur, Pakistan. I specialize in building intelligent, data-driven systems that solve real-world problems through automation, predictive analytics, and modern AI techniques.
 
-Hi, I'm Sakhawat Hussain, a passionate Machine Learning Engineer currently pursuing a Bachelor's in Data Science at The Islamia University of Bahawalpur, Pakistan. I love building intelligent systems that solve real-world problems using data-driven approaches.
+I have strong hands-on experience in Machine Learning, Deep Learning, Large Language Models (LLMs) and end-to-end model development, from data preprocessing to model deployment. I enjoy working with cutting-edge tools in the AI ecosystem, especially Transformers, LangChain, HuggingFace, and modern ML frameworks.
 
-🔍 What I Do:
+I have all the essential skills required for an entry-level Machine Learning Engineer, including strong foundations in algorithms, model building, evaluation, optimization, and production workflows.
 
-Develop machine learning and deep learning models
+Core Skills & Expertise
 
-Work on NLP projects like Fake News Detection
+Machine Learning & Deep Learning
+Regression, Classification, CNNs, RNNs, LLMs, Transformers
 
-Build interactive web apps with Flask
+AI/LLM Ecosystem
+LangChain, HuggingFace, Transformers, Prompt Engineering
 
-Analyze data and extract insights through visualization and statistics
+Data Processing & Analytics
+NumPy, Pandas, Seaborn, Matplotlib, Plotly
 
-🛠 Technologies I Use:
+Model Development & MLOps Basics
+Feature engineering, hyperparameter tuning, model evaluation, CI/CD concepts
 
-Languages: Python, C++, SQL
+Programming & Databases
+Python, SQL
 
-Libraries/Tools: TensorFlow, Keras, Scikit-learn, NLTK, Pandas, Matplotlib, Seaborn, Plotly
+Frameworks & Tools
+Flask, Streamlit, Scikit-learn, TensorFlow, OpenCV
 
-Tools: GitHub, Google Colab, Jupyter, VS Code, Tableau
+Web Development (Frontend Basics)
+HTML, CSS, JavaScript
 
-🧠 Key Skills:
+What I Enjoy
 
-Natural Language Processing (NLP)
-
-Predictive Modeling
-
-Data Analysis & Visualization
-
-Critical Thinking & Problem Solving
-
-📚 Courses & Certifications:
-
-AI for Everyone (Coursera)
-
-Machine Learning & Deep Learning Specializations (Coursera)
-
-Google Data Analytics Certificate
+I love solving problems, exploring new AI innovations, and building practical ML solutions that deliver real impact. I am continuously learning and experimenting with modern technologies to improve my skills and contribute to the AI community.
