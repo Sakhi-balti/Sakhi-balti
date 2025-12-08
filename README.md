@@ -5,7 +5,7 @@ I have strong hands-on experience in Machine Learning, Deep Learning, Large Lang
 
 I have all the essential skills required for an entry-level Machine Learning Engineer, including strong foundations in algorithms, model building, evaluation, optimization, and production workflows.
 
-Core Skills & Expertise
+### Core Skills & Expertise
 
 Machine Learning & Deep Learning
 Regression, Classification, CNNs, RNNs, LLMs, Transformers
@@ -28,6 +28,6 @@ Flask, Streamlit, Scikit-learn, TensorFlow, OpenCV
 Web Development (Frontend Basics)
 HTML, CSS, JavaScript
 
-What I Enjoy
+### What I Enjoy
 
 I love solving problems, exploring new AI innovations, and building practical ML solutions that deliver real impact. I am continuously learning and experimenting with modern technologies to improve my skills and contribute to the AI community.
