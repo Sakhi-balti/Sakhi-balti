@@ -77,7 +77,7 @@ I'm always open to collaboration, learning opportunities, and discussing innovat
 - 💼 **LinkedIn:** [linkedin.com/in/sakhawat-hussain-683b51339](https://www.linkedin.com/in/sakhawat-hussain-683b51339)
 - 📊 **Kaggle:** [kaggle.com/sakhawathussaian](https://www.kaggle.com/sakhawathussaian)
 - 🌐 **Portfolio:** [sakhi-balti.github.io/My-Portfolio](https://sakhi-balti.github.io/My-Portfolio/)
-- 📧 **Email:** [Your Email Here]
+- 📧 **Email:** [sakhibalti787@gmail.com ]
 
 ## 🎓 Education
 
