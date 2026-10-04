@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Sakhawat Hussain
+#  Hi, I'm Sakhawat Hussain
 
 Welcome to my GitHub! I'm a passionate **Machine Learning Engineer** and **Data Science student** at The Islamia University of Bahawalpur, Pakistan. I specialize in building intelligent, data-driven systems that solve real-world problems through automation, predictive analytics, and cutting-edge AI techniques.
 
-## 🚀 What I Do
+##  What I Do
 
 I have hands-on experience in **Machine Learning**, **Deep Learning**, and **Large Language Models (LLMs)**, with a focus on end-to-end model development—from data preprocessing to model deployment. I thrive on working with modern AI tools and frameworks, particularly **Transformers**, **LangChain**, **HuggingFace**, and state-of-the-art ML ecosystems.
 
 I possess all the essential skills required for an **entry-level Machine Learning Engineer**, including strong foundations in algorithms, model building, evaluation, optimization, and production workflows.
 
-## 💻 Technical Skills
+##  Technical Skills
 
 ### **Machine Learning & Deep Learning**
 - Supervised Learning: Regression, Classification
@@ -46,7 +46,7 @@ I possess all the essential skills required for an **entry-level Machine Learnin
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js, Express.js
 
-## 🎯 What I'm Working On
+##  What I'm Working On
 
 - Building end-to-end machine learning projects from concept to deployment
 - Exploring advanced LLM applications with LangChain and HuggingFace
